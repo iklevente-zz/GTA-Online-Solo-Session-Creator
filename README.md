@@ -19,6 +19,12 @@ Keep in mind, that players can still join to your new solo session. In that case
 
 Just leave it in the background and press Ctrl + F10, if that happens.
 
+## GUI:
+![Material Design GUI](https://raw.githubusercontent.com/iklevente/GTA-Online-Solo-Session-Creator/master/Resources/screenshot.PNG)
+
+## Huge thanks to:
+- CodeSwine https://github.com/CodeSwine/GTA5Online-Private_Public_Lobby (Hotkey) +rep 🍺
+
 ## Buy me a coffee ☕:
 **[PayPal](https://www.paypal.me/iklevi)**
 
