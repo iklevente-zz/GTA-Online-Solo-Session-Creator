@@ -1,5 +1,6 @@
 # GTA-Online-Solo-Session-Creator
 Creates a solo public session, so you can invite your friends
+
 **Important: You will need .NET Core Runtime to run the program. Download it from [here](https://dotnet.microsoft.com/download).**
 
 ## How it works:
