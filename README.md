@@ -4,7 +4,7 @@ Creates a solo public session, so you can invite your friends
 **Important: You will need .NET Core Runtime to run the program. Download it from [here](https://dotnet.microsoft.com/download).**
 
 ## How it works:
-It will freeze your game for some seconds, so you can disconnect from your current lobby and get into a new empty lobby.
+It freezes your game for some seconds, so you can disconnect from your current lobby and get into a new empty lobby.
 
 There, you can invite your friends and play without modders, annoying players, etc..
 
