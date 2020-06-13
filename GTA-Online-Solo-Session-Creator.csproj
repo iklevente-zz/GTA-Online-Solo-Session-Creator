@@ -7,12 +7,22 @@
     <UseWPF>true</UseWPF>
     <PackageIcon>icojpg.jpg</PackageIcon>
     <Platforms>AnyCPU;x64;x86</Platforms>
+    <ApplicationIcon>ico.ico</ApplicationIcon>
+    <Description>Creates a solo public GTA Online session, so you can invite your friends</Description>
+    <Copyright>iklevente 2020</Copyright>
+    <PackageLicenseFile>License.txt</PackageLicenseFile>
+    <RepositoryType>GitHub Repository</RepositoryType>
+    <RepositoryUrl>https://github.com/iklevente/GTA-Online-Solo-Session-Creator</RepositoryUrl>
   </PropertyGroup>
 
   <ItemGroup>
     <Compile Remove="Properties\**" />
     <EmbeddedResource Remove="Properties\**" />
     <None Remove="Properties\**" />
+    <None Include="C:\Users\klevi\Desktop\License.txt">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
     <Page Remove="Properties\**" />
   </ItemGroup>
 
