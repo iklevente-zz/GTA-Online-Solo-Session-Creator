@@ -11,7 +11,7 @@ There, you can invite your friends and play without modders, annoying players, e
 ## How to use:
 - Download it from the [Releases](https://github.com/iklevente/GTA-Online-Solo-Session-Creator/releases/latest) page
 - Start GTA Online
-- Press Activate button or Ctrl + F10 in-game
+- Start the program and press Activate button or Ctrl + F10 in-game
 - Wait until done
 - Enjoy your new public solo session
 - Invite your friends
@@ -32,4 +32,4 @@ Just leave it in the background and press Ctrl + F10, if that happens.
 **Monero address** `44zh2iQsZcc8knbgwDPhRzKHmX6fgAq8kHz84qoCYv4v6qaRjVWcUmhFfjc8dhkYQw9whdecg3wtALe8ScJr5Ck4Hut4HNe`
 
 
-*This project is licensed under the MIT License. Made by Ilyó Kovács Levente.
+*This project is licensed under the MIT License. Made by Ilyó Kovács Levente.*
