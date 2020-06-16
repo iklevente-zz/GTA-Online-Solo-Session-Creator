@@ -26,10 +26,11 @@ Just leave it in the background and press Ctrl + F10, if that happens.
 ## Huge thanks to:
 - CodeSwine https://github.com/CodeSwine/GTA5Online-Private_Public_Lobby (Hotkey) +rep 🍺
 
-## Buy me a coffee ☕:
+ ## Buy me a coffee ☕:
 **[PayPal](https://www.paypal.me/iklevi)**
 
-**Monero address** `44zh2iQsZcc8knbgwDPhRzKHmX6fgAq8kHz84qoCYv4v6qaRjVWcUmhFfjc8dhkYQw9whdecg3wtALe8ScJr5Ck4Hut4HNe`
+**Bitcoin wallet:** `bc1qa4a6w0mzp43423t2ctxx958uff4yhkazxag7ya`
 
+**Monero address:** `44zh2iQsZcc8knbgwDPhRzKHmX6fgAq8kHz84qoCYv4v6qaRjVWcUmhFfjc8dhkYQw9whdecg3wtALe8ScJr5Ck4Hut4HNe`
 
 *This project is licensed under the MIT License. Made by Ilyó Kovács Levente.*
