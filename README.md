@@ -26,4 +26,12 @@ Just leave it in the background and press Ctrl + F10, if that happens.
 ## Huge thanks to:
 - CodeSwine https://github.com/CodeSwine/GTA5Online-Private_Public_Lobby (Hotkey) +rep 🍺
 
-*This project is licensed under the MIT License. Made by Ilyó Kovács Levente.*
+## Buy me a coffee ☕:
+**Ko-fi:** https://ko-fi.com/iklevente
+
+**BTC:** 3BLDTSX8eiM7QmxQZ3fZhdtkJFxjK5tThs
+
+**XMR:** 897oVNnAbFuGmDBEDRkfY762CzMXk6gGxPaQXQaJj6WW5pw6p78w3Zk9LKEqLoy4FyjoNzPZ4xPD2UvgBVt9Nva9LjStfNM
+
+
+*This project is licensed under the Apache License 2.0. Made by Ilyó Kovács Levente and the contributors.*
