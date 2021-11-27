@@ -2,7 +2,7 @@
 
   <PropertyGroup>
     <OutputType>WinExe</OutputType>
-    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <TargetFramework>net6.0-windows</TargetFramework>
     <RootNamespace>GTA_Online_Solo_Session_Creator</RootNamespace>
     <UseWPF>true</UseWPF>
     <PackageIcon>icojpg.jpg</PackageIcon>
